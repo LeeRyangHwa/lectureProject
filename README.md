@@ -3,6 +3,7 @@
 
 서버 구축
 - springboot
+- JPA
 
 웹페이지
 - jsp, html, javascript
